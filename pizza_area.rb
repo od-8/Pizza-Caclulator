@@ -36,13 +36,10 @@ small_size = Math::PI * (small_x * small_x)
 
 large_size = Math::PI * (large_x * large_x)
 
-small_crust = (Math::PI * small_diameter) * 0.5
 
-large_crust = (Math::PI * large_diameter) * 0.5
-
-puts "Area of the small pizza(s) (Not Including crust) = #{(small_size * small_pizzas}"
+puts "Area of the small pizza(s) = #{(small_size * small_pizzas}"
 
 puts ""
-puts "Area of the large pizza(s) (Not Including crust) = #{(large_size * large_pizzas}"
+puts "Area of the large pizza(s) = #{(large_size * large_pizzas}"
 puts ""
 puts "End"
