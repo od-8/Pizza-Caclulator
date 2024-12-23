@@ -1,2 +1,10 @@
 # Pizza-Caclulator
-A ruby script that works out area of a pizza and subtracts the crust average crust thickness
+I made this because I read on reddit that 1 18" pizza is larger than 2 12" pizza's.
+
+After first I didnt think this was true as 12 + 12 = 24 so 2 12" pizza's has to be larger.
+
+However if you do the calcultaions then it turns out true that 1 18" pizza is greater than 2 12" pizza's.
+
+I wrote a simple ruby script that works this out. 
+
+It also takes the average crust thickness of a normal pizza away from it's full size to work out how much pizza you actually get.
