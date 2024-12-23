@@ -7,6 +7,4 @@ However if you do the calcultaions then it turns out true that 1 18" pizza is gr
 
 I wrote a simple ruby script that works this out. 
 
-It also takes the average crust thickness of a normal pizza away from it's full size to work out how much pizza you actually get.
-
 Reddit post = https://www.reddit.com/r/todayilearned/comments/70zil4/comment/dn7wpr7/
